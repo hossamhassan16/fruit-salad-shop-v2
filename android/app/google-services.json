@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560890787690",
+    "project_id": "fruit-salad-shop",
+    "storage_bucket": "fruit-salad-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560890787690:android:67afb60788ccf5642d5713",
+        "android_client_info": {
+          "package_name": "com.example.fruite_salad_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FeRpcumzXUfI2PnNVkGE2N3srJK9m70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
